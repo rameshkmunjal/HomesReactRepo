@@ -1,0 +1,41 @@
+* {
+	box-sizing: border-box;
+}
+.list {
+	list-style-type: none !important;
+}
+.item {
+	line-height: 20px;
+}
+h1 {
+	text-align: center;
+}
+.footer-para {
+	text-align: center;
+}
+.headerBox,
+.footerBox {
+	background: navy !important;
+	color: cornsilk;
+}
+.createLink {
+	color: whitesmoke !important;
+	font-weight: bold !important;
+}
+.container,
+.grid {
+	background-color: wheat !important;
+	border: none !important;
+}
+.cards {
+	border: none !important;
+}
+body {
+	background-color: cornsilk;
+}
+.tableData {
+	padding-left: 3vw !important;
+}
+.homeMenu {
+	color: white !important;
+}
